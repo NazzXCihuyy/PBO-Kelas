@@ -1,1 +1,4 @@
 # PBO-Kelas
+- Nama    : Naza Wiratama A
+- Kelas   : IF C 25
+- NPM     : 5520125083
